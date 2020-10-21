@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Sunghee Jung
-    tagline: Ph.D. Candidate
+    tagline: Ph.D.
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -24,9 +24,9 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Native
+    #languages:
+      #- idiom: English
+      #  level: Native
 
       #- idiom: French
       #  level: Professional
@@ -34,7 +34,7 @@ sidebar:
       #- idiom: Spanish
       #  level: Professional
 
-    interests:
+    #interests:
       #- item: Climbing
       #  link:
 
@@ -47,113 +47,46 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      I received the B.S. degree in computer science engineering from the Hankuk University of Foreign Studies, South Korea, in 2013, and the Ph.D. degree in medical science from Yonsei University, Seoul, South Korea, in 2020. Since 2013, I have been a Researcher with the Medical Image Computing
+and Analysis Laboratory, CONNECT-AI Research Center. My research interests include the application of computer vision techniques from image processing and deep learning to noise reduction and motion correction in medical images.
 
 education:
-    #- degree: MSc in Computer Science
-    #  university: University of London
-    #  time: 2011 - 2012
-    #  details: |
-    #    Describe your study here lorem ipsum dolor sit amet, consectetuer
-    #    adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-    #    sociis natoque penatibus et magnis dis parturient montes, nascetur
-    #    ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-    #    pretium quis, sem.
-
-    #      - Bullet point
-    #      - Bullet point
+    - degree: Ph.D. in Medical Science
+      university: Yonsei University
+      time: 2013 - 2020
+      details: |
+          - Medical Image Computing & Analysis Lab. of Prof. Chang, Hyuk-Jae
+          - Co-advised by Prof. Chang, Hyuk-Jae, Prof. Lee, Soochahn at Kookmin University, Seoul, Korea)
+          - Dissertation: Deep Learning based Coronary Artery Motion Correction in Coronary Computed Tomography Angiography
 
     - degree: BSc in Computer Science & Engineering
       university: Hankuk University of Foreign Studies
       time: 2009 - 2013
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Post-Doc.
+      time: 2020 - Present
+      company: CONNECT-AI Research Center, Yonsei University College of Medicine
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+          - (2020 - Now), Image quality improvement in Echocardiography
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Researcher
+      time: 2013 - 2020
+      company: Severance Hospital, Yonsei University Health System
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+          - (2018 - Now), Intelligent SW Technology Development for Medical Data Analysis, National IT Industry Promotion Agency (NIPA),
+          - (2013 - 2017), Development of Multi-modality Imaging and 3D Simulation-Based Integrative Diagnosis-Treatment Support Software System for Cardiovascular Diseases, the Korea government (MSIP),
+          - (2012 - 2018), Leading Foreign Research Institute Recruitment Program, National Research Foundation of Korea (NRF)
 
-          - Bullet point
-          - Bullet point
+#projects:
+    #title: Projects
+    #intro: >
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+    #assignments:
+      #- title: Velocity
+      #  link: "#hook"
+      #  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      
 publications:
     title: Publications
     intro: |
