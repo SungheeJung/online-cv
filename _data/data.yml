@@ -47,13 +47,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I received the B.S. degree in computer science engineering 
-      from the Hankuk University of Foreign Studies, South Korea, in 2013, 
-      and the Ph.D. degree in medical science from Yonsei University, South Korea, in 2020. 
-      Since 2013, I have been a Researcher with the Medical Image Computing and Analysis 
-      Laboratory, CONNECT-AI Research Center. My research interests include the application 
-      of computer vision techniques from image processing and deep learning to noise reduction 
-      and motion correction in medical images.
+      I received the B.S. degree in computer science engineering from the Hankuk University of Foreign Studies, South Korea, in 2013, and the Ph.D. degree in medical science from Yonsei University, South Korea, in 2020. 
+      Since 2013, I have been a Researcher with the Medical Image Computing and Analysis Laboratory, CONNECT-AI Research Center. My research interests include the application of computer vision techniques from image processing and deep learning to noise reduction and motion correction in medical images.
 
 education:
     - degree: Ph.D. in Medical Science
@@ -93,16 +88,11 @@ experiences:
       #  tagline: "A responsive website template designed to help startups promote, market and sell their products."
       
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
+    title: Publications of International Journals
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Deep Learning Cross-Phase Style Transfer for Motion Artifact Correction in Coronary Computed Tomography Angiography
+        authors: Jung, S., Lee, S., Jeon, B., Jang, Y., & Chang, H. J.
+        conference: IEEE Access, 8, 81849-81863, 
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
